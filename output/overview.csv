@@ -1,0 +1,8 @@
+dataset,rows,columns,date_min,date_max,missing_cells_pct
+fact_prenotazioni,4388,40,2023-11-06,2026-09-27,11.65
+fact_prenotazioni_ospiti,13685,6,,,16.19
+fact_prenotazioni_ricavi_giorno,26793,8,2023-09-10,2026-09-26,3.89
+fact_richieste,29195,22,2023-07-25,2026-10-18,14.57
+fact_richieste_preventivi,41994,14,2023-10-16,2026-07-31,0.0
+dim_camere,19,4,,,0.0
+dim_trattamenti,4,3,,,0.0

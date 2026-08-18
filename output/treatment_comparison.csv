@@ -1,0 +1,10 @@
+arrangement_name,comparability_group,confirmed_bookings,revenue,revenue_share_pct,avg_adr,avg_los,avg_booking_window,cancellation_rate_pct,revenue_per_booking,reliability,adr_vs_comparable_property_pct,los_vs_comparable_property_pct,booking_window_vs_comparable_property_pct,cancellation_vs_comparable_property_pp,revenue_per_booking_vs_comparable_property_pct
+Mezza Pensione,COMPARABLE_COMMERCIAL,1323,1675352.13,48.81,209.4,5.75,51.14,18.85,1266.33,HIGH,3.87,0.82,-7.12,-2.25,10.14
+Pensione Completa,COMPARABLE_COMMERCIAL,1216,1451150.56,42.28,188.65,5.68,56.85,22.92,1193.38,HIGH,-6.43,-0.41,3.25,1.82,3.79
+Bed & Breakfast,COMPARABLE_COMMERCIAL,294,178233.5,5.19,134.96,4.38,41.76,25.38,606.24,HIGH,-33.06,-23.2,-24.16,4.28,-47.27
+Only Bed,COMPARABLE_COMMERCIAL,110,82711.12,2.41,97.26,8.56,116.78,15.38,751.92,HIGH,-51.76,50.09,112.09,-5.72,-34.6
+Multipropriet,SPECIAL_OR_NON_COMPARABLE,64,35702.99,1.04,77.04,7.42,230.86,0.0,557.86,MEDIUM,-61.79,30.1,319.28,-21.1,-51.48
+Mezza Pensione Pranzo,COMPARABLE_COMMERCIAL,8,5591.5,0.16,99.85,10.5,72.0,0.0,698.94,INSUFFICIENT,-50.47,84.11,30.76,-21.1,-39.21
+Formula Residence,SPECIAL_OR_NON_COMPARABLE,40,2592.0,0.08,5.32,9.07,109.18,6.98,64.8,MEDIUM,-97.36,59.03,98.29,-14.12,-94.36
+Solo Pernottamento,SPECIAL_OR_NON_COMPARABLE,48,904.0,0.03,2.69,8.23,106.85,0.0,18.83,MEDIUM,-98.67,44.31,94.06,-21.1,-98.36
+No Board,SPECIAL_OR_NON_COMPARABLE,21,170.91,0.0,5.82,1.05,5.52,30.0,8.14,LOW,-97.11,-81.59,-89.97,8.9,-99.29

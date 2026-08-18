@@ -1,0 +1,7 @@
+room_name,Appartamento Area Giardino,Appartamento Area Piscina,Camera  Standard,Camera Superior,Camera Deluxe,Villino Double
+Appartamento Area Giardino,,-4.18,4.33,7.42,3.83,-11.63
+Appartamento Area Piscina,4.18,,8.51,11.6,8.01,-7.45
+Camera  Standard,-4.33,-8.51,,3.09,-0.5,-15.96
+Camera Superior,-7.42,-11.6,-3.09,,-3.59,-19.05
+Camera Deluxe,-3.83,-8.01,0.5,3.59,,-15.46
+Villino Double,11.63,7.45,15.96,19.05,15.46,

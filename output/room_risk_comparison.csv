@@ -1,0 +1,11 @@
+room_name,total_bookings,canceled_bookings,cancellation_rate_pct,reliability,cancellation_vs_property_pp
+Appartamento Area Giardino,1136,148,13.03,HIGH,-7.38
+Appartamento Area Piscina,799,153,19.15,HIGH,-1.26
+Camera  Standard,999,250,25.03,HIGH,4.62
+Camera Superior,569,151,26.54,HIGH,6.13
+Camera Deluxe,289,65,22.49,HIGH,2.08
+Villino Double,42,10,23.81,MEDIUM,3.4
+Suite Familiare Vista Piscina,37,8,21.62,LOW,1.21
+Suite Familiare,37,9,24.32,LOW,3.91
+Villino 2Ten,36,8,22.22,LOW,1.81
+OTA Camera Standard,9,5,55.56,INSUFFICIENT,35.15

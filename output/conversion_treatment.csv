@@ -1,0 +1,5 @@
+arrangement_code,arrangement_name,quoted_requests,overall_converted_requests,same_treatment_converted_requests,avg_quote_amount,overall_conversion_pct,same_treatment_conversion_pct
+BB,Bed & Breakfast,1149,79,43,1392.76,6.88,3.74
+FB,Pensione Completa,14790,353,273,2734.49,2.39,1.85
+HB,Mezza Pensione,11952,488,410,2302.84,4.08,3.43
+OB,Only Bed,451,6,3,1928.15,1.33,0.67

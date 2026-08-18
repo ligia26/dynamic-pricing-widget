@@ -1,0 +1,25 @@
+metric,rank,arrangement_name,value,observations,reliability
+avg_adr,1,Mezza Pensione,209.4,1323,HIGH
+avg_adr,2,Pensione Completa,188.65,1216,HIGH
+avg_adr,3,Bed & Breakfast,134.96,294,HIGH
+avg_adr,4,Only Bed,97.26,110,HIGH
+revenue,1,Mezza Pensione,1675352.13,1323,HIGH
+revenue,2,Pensione Completa,1451150.56,1216,HIGH
+revenue,3,Bed & Breakfast,178233.5,294,HIGH
+revenue,4,Only Bed,82711.12,110,HIGH
+avg_booking_window,1,Only Bed,116.78,110,HIGH
+avg_booking_window,2,Pensione Completa,56.85,1216,HIGH
+avg_booking_window,3,Mezza Pensione,51.14,1323,HIGH
+avg_booking_window,4,Bed & Breakfast,41.76,294,HIGH
+cancellation_rate_pct,1,Only Bed,15.38,110,HIGH
+cancellation_rate_pct,2,Mezza Pensione,18.85,1323,HIGH
+cancellation_rate_pct,3,Pensione Completa,22.92,1216,HIGH
+cancellation_rate_pct,4,Bed & Breakfast,25.38,294,HIGH
+avg_los,1,Only Bed,8.56,110,HIGH
+avg_los,2,Mezza Pensione,5.75,1323,HIGH
+avg_los,3,Pensione Completa,5.68,1216,HIGH
+avg_los,4,Bed & Breakfast,4.38,294,HIGH
+revenue_per_booking,1,Mezza Pensione,1266.33,1323,HIGH
+revenue_per_booking,2,Pensione Completa,1193.38,1216,HIGH
+revenue_per_booking,3,Only Bed,751.92,110,HIGH
+revenue_per_booking,4,Bed & Breakfast,606.24,294,HIGH

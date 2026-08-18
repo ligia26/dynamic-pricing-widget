@@ -1,0 +1,43 @@
+metric,rank,room_name,value,observations,reliability
+avg_adr,1,Villino Double,248.13,31,MEDIUM
+avg_adr,2,Camera Deluxe,238.7,220,HIGH
+avg_adr,3,Appartamento Area Piscina,219.96,644,HIGH
+avg_adr,4,Camera Superior,191.97,413,HIGH
+avg_adr,5,Appartamento Area Giardino,157.81,983,HIGH
+avg_adr,6,Camera  Standard,143.68,746,HIGH
+revenue,1,Appartamento Area Giardino,1005415.19,983,HIGH
+revenue,2,Appartamento Area Piscina,918835.16,644,HIGH
+revenue,3,Camera  Standard,552328.88,746,HIGH
+revenue,4,Camera Superior,443188.77,413,HIGH
+revenue,5,Camera Deluxe,327285.35,220,HIGH
+revenue,6,Villino Double,57374.5,31,MEDIUM
+avg_booking_window,1,Appartamento Area Giardino,82.91,983,HIGH
+avg_booking_window,2,Camera Deluxe,56.27,220,HIGH
+avg_booking_window,3,Villino Double,52.68,31,MEDIUM
+avg_booking_window,4,Appartamento Area Piscina,49.5,644,HIGH
+avg_booking_window,5,Camera  Standard,48.88,746,HIGH
+avg_booking_window,6,Camera Superior,44.7,413,HIGH
+cancellation_rate_pct,1,Appartamento Area Giardino,13.03,983,HIGH
+cancellation_rate_pct,2,Appartamento Area Piscina,19.15,644,HIGH
+cancellation_rate_pct,3,Camera Deluxe,22.49,220,HIGH
+cancellation_rate_pct,4,Villino Double,23.81,31,MEDIUM
+cancellation_rate_pct,5,Camera  Standard,25.03,746,HIGH
+cancellation_rate_pct,6,Camera Superior,26.54,413,HIGH
+operating_occupancy_pct,1,Camera Superior,72.88,413,HIGH
+operating_occupancy_pct,2,Camera  Standard,69.79,746,HIGH
+operating_occupancy_pct,3,Camera Deluxe,69.29,220,HIGH
+operating_occupancy_pct,4,Appartamento Area Giardino,65.46,983,HIGH
+operating_occupancy_pct,5,Appartamento Area Piscina,61.28,644,HIGH
+operating_occupancy_pct,6,Villino Double,53.83,31,MEDIUM
+operating_revpar,1,Camera Deluxe,165.39,220,HIGH
+operating_revpar,2,Camera Superior,139.91,413,HIGH
+operating_revpar,3,Appartamento Area Piscina,134.79,644,HIGH
+operating_revpar,4,Villino Double,133.56,31,MEDIUM
+operating_revpar,5,Appartamento Area Giardino,103.3,983,HIGH
+operating_revpar,6,Camera  Standard,100.27,746,HIGH
+avg_los,1,Appartamento Area Giardino,6.66,983,HIGH
+avg_los,2,Villino Double,6.16,31,MEDIUM
+avg_los,3,Appartamento Area Piscina,6.14,644,HIGH
+avg_los,4,Camera Deluxe,5.75,220,HIGH
+avg_los,5,Camera Superior,5.11,413,HIGH
+avg_los,6,Camera  Standard,4.74,746,HIGH

@@ -1,0 +1,10 @@
+check,dataset,status,details
+required_columns,fact_prenotazioni,PASS,
+required_columns,fact_richieste,PASS,
+required_columns,fact_richieste_preventivi,PASS,
+required_columns,dim_camere,PASS,
+required_columns,dim_trattamenti,PASS,
+unique_booking_code,fact_prenotazioni,PASS,0
+checkout_after_checkin,fact_prenotazioni,PASS,0
+nonnegative_stay_amount,fact_prenotazioni,WARN,21
+quotes_have_request,fact_richieste_preventivi,PASS,0

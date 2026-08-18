@@ -1,0 +1,10 @@
+room_id,room_name,quoted_requests,overall_converted_requests,same_room_converted_requests,avg_quote_amount,overall_conversion_pct,same_room_conversion_pct,confirmed_bookings,revenue,avg_adr,avg_booking_window,cancellation_rate_pct,operating_occupancy_pct,operating_revpar,reliability,conversion_reliability,conversion_vs_quoted_room_avg_pp
+2764,Appartamento Area Giardino,5086,213,166,2597.16,4.19,3.26,983,1005415.19,157.81,82.91,13.03,65.46,103.3,HIGH,HIGH,1.09
+2761,Camera  Standard,5384,207,169,1768.87,3.84,3.14,746,552328.88,143.68,48.88,25.03,69.79,100.27,HIGH,HIGH,0.97
+5375,Villino 2Ten,248,12,7,1926.22,4.84,2.82,27,31581.0,159.21,60.41,22.22,45.36,72.21,LOW,HIGH,0.65
+2765,Appartamento Area Piscina,7456,215,160,2801.8,2.88,2.15,644,918835.16,219.96,49.5,19.15,61.28,134.79,HIGH,HIGH,-0.02
+2762,Camera Superior,5464,171,110,2337.36,3.13,2.01,413,443188.77,191.97,44.7,26.54,72.88,139.91,HIGH,HIGH,-0.16
+5376,Villino Double,368,10,7,3477.66,2.72,1.9,31,57374.5,248.13,52.68,23.81,53.83,133.56,MEDIUM,HIGH,-0.27
+3231,Suite Familiare,593,21,7,3169.11,3.54,1.18,27,39546.15,223.65,46.81,24.32,39.34,87.99,LOW,HIGH,-0.99
+2763,Camera Deluxe,6580,136,62,3102.99,2.07,0.94,220,327285.35,238.7,56.27,22.49,69.29,165.39,HIGH,HIGH,-1.23
+2767,Suite Familiare Vista Piscina,996,18,9,3932.7,1.81,0.9,29,55337.0,296.27,54.66,21.62,43.44,128.71,LOW,HIGH,-1.27

@@ -1,0 +1,5 @@
+arrangement_code,arrangement_name,quoted_requests,overall_converted_requests,same_treatment_converted_requests,avg_quote_amount,overall_conversion_pct,same_treatment_conversion_pct,comparability_group,confirmed_bookings,revenue,avg_adr,avg_booking_window,cancellation_rate_pct,revenue_per_booking,reliability,conversion_reliability,conversion_vs_comparable_avg_pp
+BB,Bed & Breakfast,1149,79,43,1392.76,6.88,3.74,COMPARABLE_COMMERCIAL,294,178233.5,134.96,41.76,25.38,606.24,HIGH,HIGH,1.17
+HB,Mezza Pensione,11952,488,410,2302.84,4.08,3.43,COMPARABLE_COMMERCIAL,1323,1675352.13,209.4,51.14,18.85,1266.33,HIGH,HIGH,0.86
+FB,Pensione Completa,14790,353,273,2734.49,2.39,1.85,COMPARABLE_COMMERCIAL,1216,1451150.56,188.65,56.85,22.92,1193.38,HIGH,HIGH,-0.72
+OB,Only Bed,451,6,3,1928.15,1.33,0.67,COMPARABLE_COMMERCIAL,110,82711.12,97.26,116.78,15.38,751.92,HIGH,HIGH,-1.9

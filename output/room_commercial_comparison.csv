@@ -1,0 +1,11 @@
+room_name,confirmed_bookings,revenue,revenue_share_pct,avg_adr,operating_revpar,reliability,bookings_vs_peer_median_pct,revenue_vs_peer_median_pct,adr_vs_property_pct,revpar_vs_property_pct
+Appartamento Area Giardino,983,1005415.19,29.29,157.81,103.3,HIGH,683.27,422.76,-16.85,-13.38
+Appartamento Area Piscina,644,918835.16,26.77,219.96,134.79,HIGH,413.15,377.74,15.89,13.02
+Camera  Standard,746,552328.88,16.09,143.68,100.27,HIGH,494.42,187.18,-24.3,-15.92
+Camera Superior,413,443188.77,12.91,191.97,139.91,HIGH,229.08,130.43,1.15,17.31
+Camera Deluxe,220,327285.35,9.54,238.7,165.39,HIGH,75.3,70.17,25.77,38.68
+Villino Double,31,57374.5,1.67,248.13,133.56,MEDIUM,-75.3,-70.17,30.74,11.99
+Suite Familiare Vista Piscina,29,55337.0,1.61,296.27,128.71,LOW,-76.89,-71.23,56.1,7.92
+Suite Familiare,27,39546.15,1.15,223.65,87.99,LOW,-78.49,-79.44,17.84,-26.22
+Villino 2Ten,27,31581.0,0.92,159.21,72.21,LOW,-78.49,-83.58,-16.11,-39.45
+OTA Camera Standard,4,1516.71,0.04,155.64,1.42,INSUFFICIENT,-96.81,-99.21,-17.99,-98.81
