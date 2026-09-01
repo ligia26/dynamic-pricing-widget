@@ -1,0 +1,26 @@
+room_name,portfolio_action,stay_dates,expected_remaining_demand_rooms,gross_horizon_impact_eur,risk_adjusted_horizon_impact_eur,avg_uplift_pct
+Appartamento Area Giardino,MONITOR_UP,4,52.0,583.6,379.33,8.084957779847366
+Appartamento Area Piscina,MONITOR_UP,4,30.799999999999997,369.56,240.20999999999998,8.125097292769937
+Camera Superior,TEST_INCREASE,4,5.0,127.47,127.47,8.63942251651473
+Camera  Standard,MONITOR_UP,5,29.7,53.92,35.05,1.5262964157172338
+Camera Superior,INCREASE,2,1.0,33.15,33.15,14.353184446514826
+Camera  Standard,TEST_INCREASE,2,2.0,27.450000000000003,27.450000000000003,6.407385084162019
+Camera Deluxe,TEST_INCREASE,1,1.0,13.83,13.83,5.143621609615749
+Appartamento Area Giardino,TEST_INCREASE,4,0.0,0.0,0.0,15.0
+Appartamento Area Giardino,HOLD,19,80.92857142857143,0.0,0.0,0.0
+Camera  Standard,HOLD,14,36.333333333333336,0.0,0.0,0.0
+Appartamento Area Piscina,PROTECT_VOLUME,5,12.0,0.0,0.0,0.0
+Appartamento Area Piscina,HOLD_HIGH,18,48.72142857142857,0.0,0.0,0.0
+Appartamento Area Piscina,HOLD,13,39.6,0.0,0.0,0.0
+Appartamento Area Giardino,HOLD_HIGH,4,40.3,0.0,0.0,0.0
+Camera Deluxe,HOLD_HIGH,3,1.75,0.0,0.0,0.0
+Camera Deluxe,HOLD,21,12.85,0.0,0.0,0.0
+Camera  Standard,HOLD_HIGH,33,89.73333333333333,0.0,0.0,0.0
+Camera Superior,HOLD,3,4.4,0.0,0.0,0.0
+Camera Deluxe,PROTECT_VOLUME,2,1.2,0.0,0.0,0.0
+Camera Superior,HOLD_HIGH,34,57.05714285714286,0.0,0.0,0.0
+OTA Camera Standard,HOLD,7,0.0,0.0,0.0,0.0
+Suite Familiare,HOLD,7,0.0,0.0,0.0,0.0
+Suite Familiare Vista Piscina,HOLD,23,0.0,0.0,0.0,0.0
+Villino 2Ten,HOLD,19,0.0,0.0,0.0,0.0
+Villino Double,HOLD,31,0.0,0.0,0.0,0.0

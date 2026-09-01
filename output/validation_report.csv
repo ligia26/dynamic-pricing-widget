@@ -1,0 +1,2 @@
+metric,value,severity,handling
+negative_stay_amount_rows,21,WARNING,Retained; source may contain legitimate adjustments/refunds.

@@ -1,0 +1,690 @@
+stay_year,stay_month_num,season,booking_window,room_name,quoted_requests,converted_requests,same_room_converted,conversion_pct
+2024,2,OTHER,15-30,Camera  Standard,1,0,0,0.0
+2024,5,SHOULDER,0-7,Appartamento Area Giardino,3,0,0,0.0
+2024,5,SHOULDER,0-7,Appartamento Area Piscina,1,0,0,0.0
+2024,5,SHOULDER,0-7,Camera  Standard,2,0,0,0.0
+2024,5,SHOULDER,0-7,Camera Superior,2,0,0,0.0
+2024,5,SHOULDER,15-30,Appartamento Area Giardino,3,0,0,0.0
+2024,5,SHOULDER,15-30,Appartamento Area Piscina,1,0,0,0.0
+2024,5,SHOULDER,15-30,Camera  Standard,4,0,0,0.0
+2024,5,SHOULDER,15-30,Camera Deluxe,1,0,0,0.0
+2024,5,SHOULDER,15-30,Camera Superior,1,0,0,0.0
+2024,5,SHOULDER,31-60,Camera  Standard,1,0,0,0.0
+2024,5,SHOULDER,61-90,Appartamento Area Giardino,1,0,0,0.0
+2024,5,SHOULDER,61-90,Appartamento Area Piscina,1,0,0,0.0
+2024,5,SHOULDER,61-90,Camera  Standard,1,1,1,100.0
+2024,5,SHOULDER,61-90,Camera Deluxe,1,0,0,0.0
+2024,5,SHOULDER,8-14,Appartamento Area Giardino,1,0,0,0.0
+2024,5,SHOULDER,8-14,Camera  Standard,3,0,0,0.0
+2024,5,SHOULDER,8-14,Camera Deluxe,4,0,0,0.0
+2024,5,SHOULDER,8-14,Camera Superior,3,1,1,33.333333333333336
+2024,5,SHOULDER,8-14,Villino Double,1,0,0,0.0
+2024,5,SHOULDER,91-180,Appartamento Area Giardino,1,0,0,0.0
+2024,5,SHOULDER,91-180,Camera  Standard,4,0,0,0.0
+2024,5,SHOULDER,91-180,Camera Deluxe,1,0,0,0.0
+2024,5,SHOULDER,91-180,Suite Familiare Vista Piscina,1,0,0,0.0
+2024,5,SHOULDER,91-180,Villino Double,1,0,0,0.0
+2024,6,SHOULDER,0-7,Appartamento Area Giardino,14,2,2,14.285714285714286
+2024,6,SHOULDER,0-7,Appartamento Area Piscina,42,2,2,4.761904761904762
+2024,6,SHOULDER,0-7,Camera  Standard,16,1,1,6.25
+2024,6,SHOULDER,0-7,Camera Deluxe,7,0,0,0.0
+2024,6,SHOULDER,0-7,Camera Superior,14,0,0,0.0
+2024,6,SHOULDER,0-7,Villino 2Ten,1,1,0,0.0
+2024,6,SHOULDER,15-30,Appartamento Area Giardino,87,4,0,0.0
+2024,6,SHOULDER,15-30,Appartamento Area Piscina,105,2,2,1.9047619047619047
+2024,6,SHOULDER,15-30,Camera  Standard,33,1,1,3.0303030303030303
+2024,6,SHOULDER,15-30,Camera Deluxe,25,0,0,0.0
+2024,6,SHOULDER,15-30,Camera Superior,28,1,1,3.5714285714285716
+2024,6,SHOULDER,15-30,Suite Familiare,3,0,0,0.0
+2024,6,SHOULDER,15-30,Suite Familiare Vista Piscina,1,0,0,0.0
+2024,6,SHOULDER,15-30,Villino 2Ten,28,0,0,0.0
+2024,6,SHOULDER,181+,Appartamento Area Giardino,17,4,4,23.529411764705884
+2024,6,SHOULDER,181+,Appartamento Area Piscina,7,1,1,14.285714285714286
+2024,6,SHOULDER,181+,Camera  Standard,25,1,0,0.0
+2024,6,SHOULDER,181+,Camera Deluxe,11,3,3,27.272727272727273
+2024,6,SHOULDER,181+,Camera Superior,13,1,0,0.0
+2024,6,SHOULDER,181+,Villino 2Ten,2,0,0,0.0
+2024,6,SHOULDER,31-60,Appartamento Area Giardino,58,5,3,5.172413793103448
+2024,6,SHOULDER,31-60,Appartamento Area Piscina,58,5,3,5.172413793103448
+2024,6,SHOULDER,31-60,Camera  Standard,25,0,0,0.0
+2024,6,SHOULDER,31-60,Camera Deluxe,11,0,0,0.0
+2024,6,SHOULDER,31-60,Camera Superior,14,1,0,0.0
+2024,6,SHOULDER,31-60,Suite Familiare,4,1,1,25.0
+2024,6,SHOULDER,31-60,Villino 2Ten,18,1,0,0.0
+2024,6,SHOULDER,31-60,Villino Double,3,1,1,33.333333333333336
+2024,6,SHOULDER,61-90,Appartamento Area Giardino,20,1,1,5.0
+2024,6,SHOULDER,61-90,Appartamento Area Piscina,48,6,4,8.333333333333334
+2024,6,SHOULDER,61-90,Camera  Standard,28,4,3,10.714285714285714
+2024,6,SHOULDER,61-90,Camera Deluxe,15,2,0,0.0
+2024,6,SHOULDER,61-90,Camera Superior,25,4,4,16.0
+2024,6,SHOULDER,61-90,Suite Familiare,2,0,0,0.0
+2024,6,SHOULDER,61-90,Suite Familiare Vista Piscina,2,1,1,50.0
+2024,6,SHOULDER,61-90,Villino 2Ten,5,0,0,0.0
+2024,6,SHOULDER,8-14,Appartamento Area Giardino,30,2,2,6.666666666666667
+2024,6,SHOULDER,8-14,Appartamento Area Piscina,32,1,0,0.0
+2024,6,SHOULDER,8-14,Camera  Standard,25,4,4,16.0
+2024,6,SHOULDER,8-14,Camera Deluxe,8,1,1,12.5
+2024,6,SHOULDER,8-14,Camera Superior,12,0,0,0.0
+2024,6,SHOULDER,8-14,Suite Familiare,1,0,0,0.0
+2024,6,SHOULDER,8-14,Suite Familiare Vista Piscina,1,0,0,0.0
+2024,6,SHOULDER,8-14,Villino 2Ten,3,0,0,0.0
+2024,6,SHOULDER,91-180,Appartamento Area Giardino,75,14,11,14.666666666666666
+2024,6,SHOULDER,91-180,Appartamento Area Piscina,54,5,4,7.407407407407407
+2024,6,SHOULDER,91-180,Camera  Standard,104,7,5,4.8076923076923075
+2024,6,SHOULDER,91-180,Camera Deluxe,53,6,5,9.433962264150944
+2024,6,SHOULDER,91-180,Camera Superior,63,1,0,0.0
+2024,6,SHOULDER,91-180,Suite Familiare,1,0,0,0.0
+2024,6,SHOULDER,91-180,Villino 2Ten,5,0,0,0.0
+2024,7,PEAK,0-7,Appartamento Area Giardino,19,2,0,0.0
+2024,7,PEAK,0-7,Appartamento Area Piscina,22,0,0,0.0
+2024,7,PEAK,0-7,Camera  Standard,22,3,3,13.636363636363637
+2024,7,PEAK,0-7,Camera Deluxe,14,2,1,7.142857142857143
+2024,7,PEAK,0-7,Camera Superior,12,0,0,0.0
+2024,7,PEAK,0-7,Suite Familiare,1,0,0,0.0
+2024,7,PEAK,0-7,Suite Familiare Vista Piscina,6,0,0,0.0
+2024,7,PEAK,0-7,Villino 2Ten,10,0,0,0.0
+2024,7,PEAK,0-7,Villino Double,2,0,0,0.0
+2024,7,PEAK,15-30,Appartamento Area Giardino,20,1,1,5.0
+2024,7,PEAK,15-30,Appartamento Area Piscina,137,7,4,2.9197080291970803
+2024,7,PEAK,15-30,Camera  Standard,80,9,8,10.0
+2024,7,PEAK,15-30,Camera Deluxe,52,3,2,3.8461538461538463
+2024,7,PEAK,15-30,Camera Superior,63,2,1,1.5873015873015872
+2024,7,PEAK,15-30,Suite Familiare,2,0,0,0.0
+2024,7,PEAK,15-30,Suite Familiare Vista Piscina,2,0,0,0.0
+2024,7,PEAK,15-30,Villino 2Ten,4,1,0,0.0
+2024,7,PEAK,15-30,Villino Double,9,0,0,0.0
+2024,7,PEAK,181+,Appartamento Area Giardino,47,6,5,10.638297872340425
+2024,7,PEAK,181+,Appartamento Area Piscina,15,2,1,6.666666666666667
+2024,7,PEAK,181+,Camera  Standard,21,2,1,4.761904761904762
+2024,7,PEAK,181+,Camera Deluxe,30,0,0,0.0
+2024,7,PEAK,181+,Camera Superior,25,2,1,4.0
+2024,7,PEAK,181+,Suite Familiare,1,0,0,0.0
+2024,7,PEAK,181+,Villino 2Ten,2,0,0,0.0
+2024,7,PEAK,181+,Villino Double,1,0,0,0.0
+2024,7,PEAK,31-60,Appartamento Area Giardino,20,2,2,10.0
+2024,7,PEAK,31-60,Appartamento Area Piscina,87,4,3,3.4482758620689653
+2024,7,PEAK,31-60,Camera  Standard,57,2,2,3.508771929824561
+2024,7,PEAK,31-60,Camera Deluxe,66,4,1,1.5151515151515151
+2024,7,PEAK,31-60,Camera Superior,64,1,1,1.5625
+2024,7,PEAK,31-60,Suite Familiare,13,1,1,7.6923076923076925
+2024,7,PEAK,31-60,Suite Familiare Vista Piscina,3,1,0,0.0
+2024,7,PEAK,31-60,Villino 2Ten,5,0,0,0.0
+2024,7,PEAK,31-60,Villino Double,15,1,0,0.0
+2024,7,PEAK,61-90,Appartamento Area Giardino,10,1,1,10.0
+2024,7,PEAK,61-90,Appartamento Area Piscina,66,2,2,3.0303030303030303
+2024,7,PEAK,61-90,Camera  Standard,31,2,2,6.451612903225806
+2024,7,PEAK,61-90,Camera Deluxe,25,1,1,4.0
+2024,7,PEAK,61-90,Camera Superior,40,0,0,0.0
+2024,7,PEAK,61-90,Suite Familiare,3,0,0,0.0
+2024,7,PEAK,61-90,Villino 2Ten,3,0,0,0.0
+2024,7,PEAK,61-90,Villino Double,1,0,0,0.0
+2024,7,PEAK,8-14,Appartamento Area Giardino,43,6,4,9.30232558139535
+2024,7,PEAK,8-14,Appartamento Area Piscina,42,2,2,4.761904761904762
+2024,7,PEAK,8-14,Camera  Standard,50,2,1,2.0
+2024,7,PEAK,8-14,Camera Deluxe,53,4,2,3.7735849056603774
+2024,7,PEAK,8-14,Camera Superior,64,12,8,12.5
+2024,7,PEAK,8-14,Suite Familiare Vista Piscina,1,1,1,100.0
+2024,7,PEAK,8-14,Villino 2Ten,4,0,0,0.0
+2024,7,PEAK,91-180,Appartamento Area Giardino,112,12,7,6.25
+2024,7,PEAK,91-180,Appartamento Area Piscina,110,16,10,9.090909090909092
+2024,7,PEAK,91-180,Camera  Standard,90,6,3,3.3333333333333335
+2024,7,PEAK,91-180,Camera Deluxe,62,5,3,4.838709677419355
+2024,7,PEAK,91-180,Camera Superior,108,10,6,5.555555555555555
+2024,7,PEAK,91-180,Suite Familiare,1,0,0,0.0
+2024,7,PEAK,91-180,Suite Familiare Vista Piscina,5,1,1,20.0
+2024,7,PEAK,91-180,Villino 2Ten,3,0,0,0.0
+2024,8,PEAK,0-7,Appartamento Area Giardino,9,2,1,11.11111111111111
+2024,8,PEAK,0-7,Appartamento Area Piscina,10,3,1,10.0
+2024,8,PEAK,0-7,Camera  Standard,70,12,9,12.857142857142858
+2024,8,PEAK,0-7,Camera Deluxe,30,3,2,6.666666666666667
+2024,8,PEAK,0-7,Camera Superior,45,7,6,13.333333333333334
+2024,8,PEAK,0-7,Villino 2Ten,1,0,0,0.0
+2024,8,PEAK,15-30,Appartamento Area Giardino,23,3,2,8.695652173913043
+2024,8,PEAK,15-30,Appartamento Area Piscina,54,5,3,5.555555555555555
+2024,8,PEAK,15-30,Camera  Standard,91,7,5,5.4945054945054945
+2024,8,PEAK,15-30,Camera Deluxe,160,3,2,1.25
+2024,8,PEAK,15-30,Camera Superior,98,4,3,3.061224489795918
+2024,8,PEAK,15-30,Suite Familiare,4,0,0,0.0
+2024,8,PEAK,15-30,Suite Familiare Vista Piscina,6,0,0,0.0
+2024,8,PEAK,15-30,Villino 2Ten,4,1,1,25.0
+2024,8,PEAK,15-30,Villino Double,1,0,0,0.0
+2024,8,PEAK,181+,Appartamento Area Giardino,90,5,5,5.555555555555555
+2024,8,PEAK,181+,Appartamento Area Piscina,28,0,0,0.0
+2024,8,PEAK,181+,Camera  Standard,61,0,0,0.0
+2024,8,PEAK,181+,Camera Deluxe,45,1,0,0.0
+2024,8,PEAK,181+,Camera Superior,74,0,0,0.0
+2024,8,PEAK,181+,Suite Familiare Vista Piscina,2,0,0,0.0
+2024,8,PEAK,181+,Villino 2Ten,5,0,0,0.0
+2024,8,PEAK,181+,Villino Double,2,1,1,50.0
+2024,8,PEAK,31-60,Appartamento Area Giardino,38,2,0,0.0
+2024,8,PEAK,31-60,Appartamento Area Piscina,161,13,12,7.453416149068323
+2024,8,PEAK,31-60,Camera  Standard,122,6,3,2.459016393442623
+2024,8,PEAK,31-60,Camera Deluxe,106,3,2,1.8867924528301887
+2024,8,PEAK,31-60,Camera Superior,100,4,2,2.0
+2024,8,PEAK,31-60,Suite Familiare,4,0,0,0.0
+2024,8,PEAK,31-60,Suite Familiare Vista Piscina,1,0,0,0.0
+2024,8,PEAK,31-60,Villino 2Ten,4,1,0,0.0
+2024,8,PEAK,31-60,Villino Double,3,0,0,0.0
+2024,8,PEAK,61-90,Appartamento Area Giardino,13,0,0,0.0
+2024,8,PEAK,61-90,Appartamento Area Piscina,87,1,0,0.0
+2024,8,PEAK,61-90,Camera  Standard,100,0,0,0.0
+2024,8,PEAK,61-90,Camera Deluxe,65,2,2,3.076923076923077
+2024,8,PEAK,61-90,Camera Superior,88,0,0,0.0
+2024,8,PEAK,61-90,Suite Familiare Vista Piscina,1,0,0,0.0
+2024,8,PEAK,61-90,Villino 2Ten,7,0,0,0.0
+2024,8,PEAK,61-90,Villino Double,4,0,0,0.0
+2024,8,PEAK,8-14,Appartamento Area Giardino,27,3,3,11.11111111111111
+2024,8,PEAK,8-14,Appartamento Area Piscina,20,3,1,5.0
+2024,8,PEAK,8-14,Camera  Standard,46,1,0,0.0
+2024,8,PEAK,8-14,Camera Deluxe,67,4,1,1.492537313432836
+2024,8,PEAK,8-14,Camera Superior,41,7,6,14.634146341463415
+2024,8,PEAK,8-14,Suite Familiare,4,0,0,0.0
+2024,8,PEAK,8-14,Suite Familiare Vista Piscina,8,1,1,12.5
+2024,8,PEAK,8-14,Villino 2Ten,1,0,0,0.0
+2024,8,PEAK,91-180,Appartamento Area Giardino,115,6,4,3.4782608695652173
+2024,8,PEAK,91-180,Appartamento Area Piscina,188,10,8,4.25531914893617
+2024,8,PEAK,91-180,Camera  Standard,137,2,0,0.0
+2024,8,PEAK,91-180,Camera Deluxe,98,5,4,4.081632653061225
+2024,8,PEAK,91-180,Camera Superior,124,2,1,0.8064516129032258
+2024,8,PEAK,91-180,Suite Familiare,1,0,0,0.0
+2024,8,PEAK,91-180,Villino 2Ten,16,3,2,12.5
+2024,8,PEAK,91-180,Villino Double,2,0,0,0.0
+2024,9,SHOULDER,0-7,Appartamento Area Giardino,21,4,4,19.047619047619047
+2024,9,SHOULDER,0-7,Appartamento Area Piscina,10,4,4,40.0
+2024,9,SHOULDER,0-7,Camera  Standard,4,0,0,0.0
+2024,9,SHOULDER,0-7,Camera Deluxe,1,1,1,100.0
+2024,9,SHOULDER,0-7,Camera Superior,3,0,0,0.0
+2024,9,SHOULDER,15-30,Appartamento Area Giardino,55,3,2,3.6363636363636362
+2024,9,SHOULDER,15-30,Appartamento Area Piscina,34,3,3,8.823529411764707
+2024,9,SHOULDER,15-30,Camera  Standard,85,4,3,3.5294117647058822
+2024,9,SHOULDER,15-30,Camera Deluxe,14,0,0,0.0
+2024,9,SHOULDER,15-30,Camera Superior,16,0,0,0.0
+2024,9,SHOULDER,15-30,Suite Familiare,1,0,0,0.0
+2024,9,SHOULDER,181+,Appartamento Area Giardino,12,0,0,0.0
+2024,9,SHOULDER,181+,Appartamento Area Piscina,2,0,0,0.0
+2024,9,SHOULDER,181+,Camera  Standard,12,2,2,16.666666666666668
+2024,9,SHOULDER,181+,Camera Deluxe,7,0,0,0.0
+2024,9,SHOULDER,181+,Camera Superior,6,0,0,0.0
+2024,9,SHOULDER,181+,Villino 2Ten,2,0,0,0.0
+2024,9,SHOULDER,31-60,Appartamento Area Giardino,15,3,1,6.666666666666667
+2024,9,SHOULDER,31-60,Appartamento Area Piscina,31,1,1,3.225806451612903
+2024,9,SHOULDER,31-60,Camera  Standard,55,5,3,5.454545454545454
+2024,9,SHOULDER,31-60,Camera Deluxe,33,2,1,3.0303030303030303
+2024,9,SHOULDER,31-60,Camera Superior,37,0,0,0.0
+2024,9,SHOULDER,31-60,Suite Familiare,1,0,0,0.0
+2024,9,SHOULDER,31-60,Suite Familiare Vista Piscina,2,1,0,0.0
+2024,9,SHOULDER,31-60,Villino 2Ten,2,0,0,0.0
+2024,9,SHOULDER,31-60,Villino Double,1,0,0,0.0
+2024,9,SHOULDER,61-90,Appartamento Area Giardino,48,1,1,2.0833333333333335
+2024,9,SHOULDER,61-90,Appartamento Area Piscina,25,1,1,4.0
+2024,9,SHOULDER,61-90,Camera  Standard,53,0,0,0.0
+2024,9,SHOULDER,61-90,Camera Deluxe,32,1,1,3.125
+2024,9,SHOULDER,61-90,Camera Superior,50,0,0,0.0
+2024,9,SHOULDER,61-90,Suite Familiare Vista Piscina,1,0,0,0.0
+2024,9,SHOULDER,61-90,Villino Double,2,0,0,0.0
+2024,9,SHOULDER,8-14,Appartamento Area Giardino,64,2,2,3.125
+2024,9,SHOULDER,8-14,Appartamento Area Piscina,17,1,1,5.882352941176471
+2024,9,SHOULDER,8-14,Camera  Standard,37,1,1,2.7027027027027026
+2024,9,SHOULDER,8-14,Camera Deluxe,5,0,0,0.0
+2024,9,SHOULDER,8-14,Camera Superior,13,0,0,0.0
+2024,9,SHOULDER,8-14,Suite Familiare,6,0,0,0.0
+2024,9,SHOULDER,91-180,Appartamento Area Giardino,83,2,0,0.0
+2024,9,SHOULDER,91-180,Appartamento Area Piscina,43,2,2,4.651162790697675
+2024,9,SHOULDER,91-180,Camera  Standard,77,2,2,2.5974025974025974
+2024,9,SHOULDER,91-180,Camera Deluxe,49,0,0,0.0
+2024,9,SHOULDER,91-180,Camera Superior,68,1,1,1.4705882352941178
+2024,9,SHOULDER,91-180,Villino 2Ten,10,1,1,10.0
+2024,9,SHOULDER,91-180,Villino Double,6,0,0,0.0
+2025,5,SHOULDER,0-7,Appartamento Area Giardino,1,0,0,0.0
+2025,5,SHOULDER,0-7,Camera Superior,1,0,0,0.0
+2025,5,SHOULDER,15-30,Appartamento Area Giardino,39,3,2,5.128205128205129
+2025,5,SHOULDER,15-30,Appartamento Area Piscina,10,8,7,70.0
+2025,5,SHOULDER,15-30,Camera  Standard,7,3,1,14.285714285714286
+2025,5,SHOULDER,15-30,Camera Deluxe,17,2,0,0.0
+2025,5,SHOULDER,15-30,Camera Superior,15,9,3,20.0
+2025,5,SHOULDER,15-30,Suite Familiare,1,0,0,0.0
+2025,5,SHOULDER,15-30,Suite Familiare Vista Piscina,2,0,0,0.0
+2025,5,SHOULDER,31-60,Appartamento Area Giardino,3,0,0,0.0
+2025,5,SHOULDER,31-60,Appartamento Area Piscina,2,0,0,0.0
+2025,5,SHOULDER,31-60,Camera  Standard,13,3,2,15.384615384615385
+2025,5,SHOULDER,31-60,Camera Deluxe,3,0,0,0.0
+2025,5,SHOULDER,31-60,Camera Superior,6,4,3,50.0
+2025,5,SHOULDER,31-60,Suite Familiare,1,0,0,0.0
+2025,5,SHOULDER,61-90,Appartamento Area Giardino,2,0,0,0.0
+2025,5,SHOULDER,61-90,Appartamento Area Piscina,1,0,0,0.0
+2025,5,SHOULDER,61-90,Camera  Standard,4,1,1,25.0
+2025,5,SHOULDER,61-90,Camera Deluxe,3,0,0,0.0
+2025,5,SHOULDER,8-14,Appartamento Area Giardino,7,0,0,0.0
+2025,5,SHOULDER,8-14,Appartamento Area Piscina,2,0,0,0.0
+2025,5,SHOULDER,91-180,Camera  Standard,1,0,0,0.0
+2025,5,SHOULDER,91-180,Camera Deluxe,1,0,0,0.0
+2025,5,SHOULDER,91-180,Camera Superior,1,0,0,0.0
+2025,6,SHOULDER,0-7,Appartamento Area Giardino,55,19,17,30.90909090909091
+2025,6,SHOULDER,0-7,Appartamento Area Piscina,16,4,4,25.0
+2025,6,SHOULDER,0-7,Camera  Standard,25,14,10,40.0
+2025,6,SHOULDER,0-7,Camera Deluxe,7,1,1,14.285714285714286
+2025,6,SHOULDER,0-7,Camera Superior,21,12,8,38.095238095238095
+2025,6,SHOULDER,0-7,Suite Familiare Vista Piscina,2,2,0,0.0
+2025,6,SHOULDER,0-7,Villino 2Ten,1,0,0,0.0
+2025,6,SHOULDER,15-30,Appartamento Area Giardino,119,9,2,1.680672268907563
+2025,6,SHOULDER,15-30,Appartamento Area Piscina,59,4,4,6.779661016949152
+2025,6,SHOULDER,15-30,Camera  Standard,62,6,3,4.838709677419355
+2025,6,SHOULDER,15-30,Camera Deluxe,49,1,1,2.0408163265306123
+2025,6,SHOULDER,15-30,Camera Superior,52,4,1,1.9230769230769231
+2025,6,SHOULDER,15-30,Suite Familiare,2,0,0,0.0
+2025,6,SHOULDER,15-30,Suite Familiare Vista Piscina,4,1,0,0.0
+2025,6,SHOULDER,15-30,Villino Double,1,2,0,0.0
+2025,6,SHOULDER,181+,Appartamento Area Piscina,1,0,0,0.0
+2025,6,SHOULDER,181+,Camera  Standard,1,0,0,0.0
+2025,6,SHOULDER,181+,Camera Superior,2,0,0,0.0
+2025,6,SHOULDER,31-60,Appartamento Area Giardino,88,3,3,3.409090909090909
+2025,6,SHOULDER,31-60,Appartamento Area Piscina,185,12,10,5.405405405405405
+2025,6,SHOULDER,31-60,Camera  Standard,118,4,2,1.694915254237288
+2025,6,SHOULDER,31-60,Camera Deluxe,109,4,2,1.834862385321101
+2025,6,SHOULDER,31-60,Camera Superior,133,6,3,2.255639097744361
+2025,6,SHOULDER,31-60,Suite Familiare,2,0,0,0.0
+2025,6,SHOULDER,31-60,Suite Familiare Vista Piscina,2,0,0,0.0
+2025,6,SHOULDER,61-90,Appartamento Area Giardino,53,2,1,1.8867924528301887
+2025,6,SHOULDER,61-90,Appartamento Area Piscina,86,4,3,3.488372093023256
+2025,6,SHOULDER,61-90,Camera  Standard,87,5,4,4.597701149425287
+2025,6,SHOULDER,61-90,Camera Deluxe,65,2,1,1.5384615384615385
+2025,6,SHOULDER,61-90,Camera Superior,96,3,1,1.0416666666666667
+2025,6,SHOULDER,61-90,Suite Familiare,4,0,0,0.0
+2025,6,SHOULDER,8-14,Appartamento Area Giardino,69,11,10,14.492753623188406
+2025,6,SHOULDER,8-14,Appartamento Area Piscina,31,9,6,19.35483870967742
+2025,6,SHOULDER,8-14,Camera  Standard,30,10,9,30.0
+2025,6,SHOULDER,8-14,Camera Deluxe,8,2,1,12.5
+2025,6,SHOULDER,8-14,Camera Superior,14,4,2,14.285714285714286
+2025,6,SHOULDER,8-14,Suite Familiare Vista Piscina,1,0,0,0.0
+2025,6,SHOULDER,8-14,Villino 2Ten,1,0,0,0.0
+2025,6,SHOULDER,91-180,Appartamento Area Giardino,43,2,0,0.0
+2025,6,SHOULDER,91-180,Appartamento Area Piscina,65,0,0,0.0
+2025,6,SHOULDER,91-180,Camera  Standard,50,3,3,6.0
+2025,6,SHOULDER,91-180,Camera Deluxe,28,0,0,0.0
+2025,6,SHOULDER,91-180,Camera Superior,51,1,1,1.9607843137254901
+2025,6,SHOULDER,91-180,Suite Familiare Vista Piscina,1,0,0,0.0
+2025,6,SHOULDER,91-180,Villino 2Ten,1,1,1,100.0
+2025,6,SHOULDER,91-180,Villino Double,2,0,0,0.0
+2025,7,PEAK,0-7,Appartamento Area Giardino,71,3,2,2.816901408450704
+2025,7,PEAK,0-7,Appartamento Area Piscina,54,7,5,9.25925925925926
+2025,7,PEAK,0-7,Camera  Standard,9,2,1,11.11111111111111
+2025,7,PEAK,0-7,Camera Deluxe,10,1,1,10.0
+2025,7,PEAK,0-7,Camera Superior,11,2,2,18.181818181818183
+2025,7,PEAK,0-7,Suite Familiare,2,1,1,50.0
+2025,7,PEAK,0-7,Suite Familiare Vista Piscina,1,0,0,0.0
+2025,7,PEAK,15-30,Appartamento Area Giardino,129,7,3,2.3255813953488373
+2025,7,PEAK,15-30,Appartamento Area Piscina,191,11,8,4.18848167539267
+2025,7,PEAK,15-30,Camera  Standard,54,9,9,16.666666666666668
+2025,7,PEAK,15-30,Camera Deluxe,46,3,3,6.521739130434782
+2025,7,PEAK,15-30,Camera Superior,21,2,1,4.761904761904762
+2025,7,PEAK,15-30,Suite Familiare,13,0,0,0.0
+2025,7,PEAK,15-30,Suite Familiare Vista Piscina,27,0,0,0.0
+2025,7,PEAK,15-30,Villino Double,2,0,0,0.0
+2025,7,PEAK,181+,Appartamento Area Giardino,19,0,0,0.0
+2025,7,PEAK,181+,Appartamento Area Piscina,5,0,0,0.0
+2025,7,PEAK,181+,Camera  Standard,10,1,1,10.0
+2025,7,PEAK,181+,Camera Deluxe,5,1,1,20.0
+2025,7,PEAK,181+,Camera Superior,15,3,3,20.0
+2025,7,PEAK,181+,Villino 2Ten,1,0,0,0.0
+2025,7,PEAK,31-60,Appartamento Area Giardino,47,3,3,6.382978723404255
+2025,7,PEAK,31-60,Appartamento Area Piscina,211,12,8,3.7914691943127963
+2025,7,PEAK,31-60,Camera  Standard,121,13,9,7.43801652892562
+2025,7,PEAK,31-60,Camera Deluxe,73,0,0,0.0
+2025,7,PEAK,31-60,Camera Superior,112,12,6,5.357142857142857
+2025,7,PEAK,31-60,Suite Familiare,19,1,1,5.2631578947368425
+2025,7,PEAK,31-60,Suite Familiare Vista Piscina,82,1,0,0.0
+2025,7,PEAK,31-60,Villino Double,1,0,0,0.0
+2025,7,PEAK,61-90,Appartamento Area Giardino,35,0,0,0.0
+2025,7,PEAK,61-90,Appartamento Area Piscina,78,4,2,2.5641025641025643
+2025,7,PEAK,61-90,Camera  Standard,85,2,2,2.3529411764705883
+2025,7,PEAK,61-90,Camera Deluxe,111,2,2,1.8018018018018018
+2025,7,PEAK,61-90,Camera Superior,101,3,1,0.9900990099009901
+2025,7,PEAK,61-90,Suite Familiare,6,1,0,0.0
+2025,7,PEAK,61-90,Suite Familiare Vista Piscina,39,0,0,0.0
+2025,7,PEAK,8-14,Appartamento Area Giardino,62,9,5,8.064516129032258
+2025,7,PEAK,8-14,Appartamento Area Piscina,94,4,2,2.127659574468085
+2025,7,PEAK,8-14,Camera  Standard,29,5,2,6.896551724137931
+2025,7,PEAK,8-14,Camera Deluxe,14,1,1,7.142857142857143
+2025,7,PEAK,8-14,Camera Superior,7,0,0,0.0
+2025,7,PEAK,8-14,Suite Familiare,3,1,0,0.0
+2025,7,PEAK,8-14,Suite Familiare Vista Piscina,7,0,0,0.0
+2025,7,PEAK,8-14,Villino 2Ten,1,0,0,0.0
+2025,7,PEAK,8-14,Villino Double,2,1,1,50.0
+2025,7,PEAK,91-180,Appartamento Area Giardino,116,4,4,3.4482758620689653
+2025,7,PEAK,91-180,Appartamento Area Piscina,147,7,5,3.401360544217687
+2025,7,PEAK,91-180,Camera  Standard,163,5,4,2.4539877300613497
+2025,7,PEAK,91-180,Camera Deluxe,259,5,3,1.1583011583011582
+2025,7,PEAK,91-180,Camera Superior,212,2,1,0.4716981132075472
+2025,7,PEAK,91-180,Suite Familiare,11,1,1,9.090909090909092
+2025,7,PEAK,91-180,Suite Familiare Vista Piscina,29,0,0,0.0
+2025,7,PEAK,91-180,Villino Double,1,0,0,0.0
+2025,8,PEAK,0-7,Appartamento Area Giardino,82,11,10,12.195121951219512
+2025,8,PEAK,0-7,Appartamento Area Piscina,18,2,2,11.11111111111111
+2025,8,PEAK,0-7,Camera  Standard,35,7,7,20.0
+2025,8,PEAK,0-7,Camera Deluxe,2,0,0,0.0
+2025,8,PEAK,0-7,Camera Superior,23,6,6,26.08695652173913
+2025,8,PEAK,0-7,Suite Familiare,4,0,0,0.0
+2025,8,PEAK,0-7,Villino 2Ten,1,0,0,0.0
+2025,8,PEAK,0-7,Villino Double,3,1,1,33.333333333333336
+2025,8,PEAK,15-30,Appartamento Area Giardino,64,3,3,4.6875
+2025,8,PEAK,15-30,Appartamento Area Piscina,202,11,8,3.9603960396039604
+2025,8,PEAK,15-30,Camera  Standard,54,6,6,11.11111111111111
+2025,8,PEAK,15-30,Camera Deluxe,29,5,2,6.896551724137931
+2025,8,PEAK,15-30,Camera Superior,34,2,1,2.9411764705882355
+2025,8,PEAK,15-30,Suite Familiare,11,1,0,0.0
+2025,8,PEAK,15-30,Suite Familiare Vista Piscina,6,2,2,33.333333333333336
+2025,8,PEAK,15-30,Villino Double,1,0,0,0.0
+2025,8,PEAK,181+,Appartamento Area Giardino,28,0,0,0.0
+2025,8,PEAK,181+,Appartamento Area Piscina,6,0,0,0.0
+2025,8,PEAK,181+,Camera  Standard,9,0,0,0.0
+2025,8,PEAK,181+,Camera Deluxe,15,0,0,0.0
+2025,8,PEAK,181+,Camera Superior,33,0,0,0.0
+2025,8,PEAK,181+,Suite Familiare Vista Piscina,1,1,1,100.0
+2025,8,PEAK,181+,Villino 2Ten,3,0,0,0.0
+2025,8,PEAK,181+,Villino Double,4,0,0,0.0
+2025,8,PEAK,31-60,Appartamento Area Giardino,81,2,1,1.2345679012345678
+2025,8,PEAK,31-60,Appartamento Area Piscina,297,8,7,2.356902356902357
+2025,8,PEAK,31-60,Camera  Standard,115,7,5,4.3478260869565215
+2025,8,PEAK,31-60,Camera Deluxe,64,2,1,1.5625
+2025,8,PEAK,31-60,Camera Superior,114,3,2,1.7543859649122806
+2025,8,PEAK,31-60,Suite Familiare,10,1,1,10.0
+2025,8,PEAK,31-60,Suite Familiare Vista Piscina,16,1,0,0.0
+2025,8,PEAK,31-60,Villino Double,1,0,0,0.0
+2025,8,PEAK,61-90,Appartamento Area Giardino,164,3,3,1.829268292682927
+2025,8,PEAK,61-90,Appartamento Area Piscina,291,9,8,2.7491408934707904
+2025,8,PEAK,61-90,Camera  Standard,125,9,8,6.4
+2025,8,PEAK,61-90,Camera Deluxe,82,3,3,3.658536585365854
+2025,8,PEAK,61-90,Camera Superior,68,2,1,1.4705882352941178
+2025,8,PEAK,61-90,Suite Familiare,5,0,0,0.0
+2025,8,PEAK,61-90,Suite Familiare Vista Piscina,7,0,0,0.0
+2025,8,PEAK,61-90,Villino Double,2,0,0,0.0
+2025,8,PEAK,8-14,Appartamento Area Giardino,63,7,7,11.11111111111111
+2025,8,PEAK,8-14,Appartamento Area Piscina,51,9,8,15.686274509803921
+2025,8,PEAK,8-14,Camera  Standard,28,8,6,21.428571428571427
+2025,8,PEAK,8-14,Camera Deluxe,17,0,0,0.0
+2025,8,PEAK,8-14,Camera Superior,25,1,1,4.0
+2025,8,PEAK,8-14,Suite Familiare,2,0,0,0.0
+2025,8,PEAK,8-14,Suite Familiare Vista Piscina,5,0,0,0.0
+2025,8,PEAK,91-180,Appartamento Area Giardino,172,1,0,0.0
+2025,8,PEAK,91-180,Appartamento Area Piscina,321,12,7,2.1806853582554515
+2025,8,PEAK,91-180,Camera  Standard,283,9,7,2.4734982332155475
+2025,8,PEAK,91-180,Camera Deluxe,464,13,2,0.43103448275862066
+2025,8,PEAK,91-180,Camera Superior,316,11,9,2.848101265822785
+2025,8,PEAK,91-180,Suite Familiare,20,1,0,0.0
+2025,8,PEAK,91-180,Suite Familiare Vista Piscina,8,0,0,0.0
+2025,8,PEAK,91-180,Villino Double,3,0,0,0.0
+2025,9,SHOULDER,0-7,Appartamento Area Giardino,33,14,11,33.333333333333336
+2025,9,SHOULDER,0-7,Appartamento Area Piscina,10,12,9,90.0
+2025,9,SHOULDER,0-7,Camera  Standard,24,9,9,37.5
+2025,9,SHOULDER,0-7,Camera Deluxe,11,4,1,9.090909090909092
+2025,9,SHOULDER,0-7,Camera Superior,21,8,6,28.571428571428573
+2025,9,SHOULDER,0-7,Suite Familiare,1,0,0,0.0
+2025,9,SHOULDER,15-30,Appartamento Area Giardino,11,0,0,0.0
+2025,9,SHOULDER,15-30,Appartamento Area Piscina,12,4,4,33.333333333333336
+2025,9,SHOULDER,15-30,Camera  Standard,55,1,1,1.8181818181818181
+2025,9,SHOULDER,15-30,Camera Deluxe,22,0,0,0.0
+2025,9,SHOULDER,15-30,Camera Superior,19,1,0,0.0
+2025,9,SHOULDER,15-30,Suite Familiare,5,0,0,0.0
+2025,9,SHOULDER,15-30,Suite Familiare Vista Piscina,2,0,0,0.0
+2025,9,SHOULDER,181+,Appartamento Area Giardino,1,0,0,0.0
+2025,9,SHOULDER,31-60,Appartamento Area Giardino,15,0,0,0.0
+2025,9,SHOULDER,31-60,Appartamento Area Piscina,29,4,4,13.793103448275861
+2025,9,SHOULDER,31-60,Camera  Standard,60,9,9,15.0
+2025,9,SHOULDER,31-60,Camera Deluxe,20,0,0,0.0
+2025,9,SHOULDER,31-60,Camera Superior,27,3,1,3.7037037037037037
+2025,9,SHOULDER,31-60,Suite Familiare,6,1,0,0.0
+2025,9,SHOULDER,31-60,Suite Familiare Vista Piscina,3,0,0,0.0
+2025,9,SHOULDER,31-60,Villino Double,1,1,0,0.0
+2025,9,SHOULDER,61-90,Appartamento Area Giardino,4,0,0,0.0
+2025,9,SHOULDER,61-90,Appartamento Area Piscina,19,5,4,21.05263157894737
+2025,9,SHOULDER,61-90,Camera  Standard,32,2,2,6.25
+2025,9,SHOULDER,61-90,Camera Deluxe,17,2,0,0.0
+2025,9,SHOULDER,61-90,Camera Superior,17,1,1,5.882352941176471
+2025,9,SHOULDER,61-90,Suite Familiare,2,1,0,0.0
+2025,9,SHOULDER,8-14,Appartamento Area Giardino,19,7,5,26.31578947368421
+2025,9,SHOULDER,8-14,Appartamento Area Piscina,15,2,1,6.666666666666667
+2025,9,SHOULDER,8-14,Camera  Standard,36,4,2,5.555555555555555
+2025,9,SHOULDER,8-14,Camera Deluxe,40,6,6,15.0
+2025,9,SHOULDER,8-14,Camera Superior,13,5,2,15.384615384615385
+2025,9,SHOULDER,8-14,Suite Familiare,1,0,0,0.0
+2025,9,SHOULDER,8-14,Suite Familiare Vista Piscina,1,0,0,0.0
+2025,9,SHOULDER,91-180,Appartamento Area Giardino,11,0,0,0.0
+2025,9,SHOULDER,91-180,Appartamento Area Piscina,17,0,0,0.0
+2025,9,SHOULDER,91-180,Camera  Standard,39,1,0,0.0
+2025,9,SHOULDER,91-180,Camera Deluxe,26,1,1,3.8461538461538463
+2025,9,SHOULDER,91-180,Camera Superior,19,0,0,0.0
+2025,9,SHOULDER,91-180,Suite Familiare,5,1,0,0.0
+2025,9,SHOULDER,91-180,Suite Familiare Vista Piscina,2,0,0,0.0
+2026,5,SHOULDER,0-7,Appartamento Area Giardino,36,5,5,13.88888888888889
+2026,5,SHOULDER,0-7,Appartamento Area Piscina,4,0,0,0.0
+2026,5,SHOULDER,0-7,Camera  Standard,1,0,0,0.0
+2026,5,SHOULDER,15-30,Appartamento Area Giardino,6,1,0,0.0
+2026,5,SHOULDER,15-30,Appartamento Area Piscina,8,1,0,0.0
+2026,5,SHOULDER,15-30,Camera  Standard,8,0,0,0.0
+2026,5,SHOULDER,15-30,Camera Deluxe,10,1,0,0.0
+2026,5,SHOULDER,15-30,Camera Superior,5,0,0,0.0
+2026,5,SHOULDER,15-30,Suite Familiare,1,0,0,0.0
+2026,5,SHOULDER,15-30,Suite Familiare Vista Piscina,1,0,0,0.0
+2026,5,SHOULDER,15-30,Villino Double,1,1,1,100.0
+2026,5,SHOULDER,181+,Camera  Standard,1,0,0,0.0
+2026,5,SHOULDER,181+,Camera Superior,2,0,0,0.0
+2026,5,SHOULDER,31-60,Appartamento Area Giardino,9,2,0,0.0
+2026,5,SHOULDER,31-60,Appartamento Area Piscina,5,0,0,0.0
+2026,5,SHOULDER,31-60,Camera  Standard,7,2,1,14.285714285714286
+2026,5,SHOULDER,31-60,Camera Deluxe,3,0,0,0.0
+2026,5,SHOULDER,31-60,Camera Superior,6,2,1,16.666666666666668
+2026,5,SHOULDER,31-60,Suite Familiare Vista Piscina,1,0,0,0.0
+2026,5,SHOULDER,31-60,Villino Double,1,0,0,0.0
+2026,5,SHOULDER,61-90,Appartamento Area Giardino,1,0,0,0.0
+2026,5,SHOULDER,61-90,Appartamento Area Piscina,8,0,0,0.0
+2026,5,SHOULDER,61-90,Camera  Standard,2,0,0,0.0
+2026,5,SHOULDER,61-90,Camera Deluxe,1,0,0,0.0
+2026,5,SHOULDER,61-90,Camera Superior,2,0,0,0.0
+2026,5,SHOULDER,8-14,Appartamento Area Giardino,7,0,0,0.0
+2026,5,SHOULDER,8-14,Appartamento Area Piscina,3,0,0,0.0
+2026,5,SHOULDER,8-14,Camera  Standard,6,2,1,16.666666666666668
+2026,5,SHOULDER,91-180,Appartamento Area Giardino,1,0,0,0.0
+2026,5,SHOULDER,91-180,Appartamento Area Piscina,5,1,1,20.0
+2026,5,SHOULDER,91-180,Camera  Standard,16,1,0,0.0
+2026,5,SHOULDER,91-180,Camera Deluxe,2,0,0,0.0
+2026,5,SHOULDER,91-180,Camera Superior,4,2,0,0.0
+2026,5,SHOULDER,91-180,Suite Familiare,2,1,0,0.0
+2026,5,SHOULDER,91-180,Suite Familiare Vista Piscina,1,0,0,0.0
+2026,6,SHOULDER,0-7,Appartamento Area Giardino,59,6,4,6.779661016949152
+2026,6,SHOULDER,0-7,Appartamento Area Piscina,41,4,3,7.317073170731708
+2026,6,SHOULDER,0-7,Camera  Standard,6,0,0,0.0
+2026,6,SHOULDER,0-7,Camera Deluxe,16,3,0,0.0
+2026,6,SHOULDER,0-7,Camera Superior,8,3,2,25.0
+2026,6,SHOULDER,0-7,Suite Familiare,4,1,1,25.0
+2026,6,SHOULDER,0-7,Suite Familiare Vista Piscina,2,0,0,0.0
+2026,6,SHOULDER,0-7,Villino 2Ten,6,0,0,0.0
+2026,6,SHOULDER,0-7,Villino Double,1,0,0,0.0
+2026,6,SHOULDER,15-30,Appartamento Area Giardino,64,11,6,9.375
+2026,6,SHOULDER,15-30,Appartamento Area Piscina,82,8,4,4.878048780487805
+2026,6,SHOULDER,15-30,Camera  Standard,32,7,4,12.5
+2026,6,SHOULDER,15-30,Camera Deluxe,72,5,1,1.3888888888888888
+2026,6,SHOULDER,15-30,Camera Superior,30,5,3,10.0
+2026,6,SHOULDER,15-30,Suite Familiare,5,0,0,0.0
+2026,6,SHOULDER,15-30,Suite Familiare Vista Piscina,1,0,0,0.0
+2026,6,SHOULDER,15-30,Villino 2Ten,2,1,0,0.0
+2026,6,SHOULDER,15-30,Villino Double,4,0,0,0.0
+2026,6,SHOULDER,181+,Appartamento Area Giardino,9,2,2,22.22222222222222
+2026,6,SHOULDER,181+,Appartamento Area Piscina,8,0,0,0.0
+2026,6,SHOULDER,181+,Camera  Standard,19,1,1,5.2631578947368425
+2026,6,SHOULDER,181+,Camera Deluxe,8,0,0,0.0
+2026,6,SHOULDER,181+,Camera Superior,17,0,0,0.0
+2026,6,SHOULDER,181+,Suite Familiare Vista Piscina,1,0,0,0.0
+2026,6,SHOULDER,31-60,Appartamento Area Giardino,69,4,4,5.797101449275362
+2026,6,SHOULDER,31-60,Appartamento Area Piscina,62,5,1,1.6129032258064515
+2026,6,SHOULDER,31-60,Camera  Standard,70,7,7,10.0
+2026,6,SHOULDER,31-60,Camera Deluxe,106,6,0,0.0
+2026,6,SHOULDER,31-60,Camera Superior,71,8,6,8.450704225352112
+2026,6,SHOULDER,31-60,Suite Familiare,3,1,0,0.0
+2026,6,SHOULDER,31-60,Suite Familiare Vista Piscina,5,0,0,0.0
+2026,6,SHOULDER,31-60,Villino 2Ten,4,0,0,0.0
+2026,6,SHOULDER,31-60,Villino Double,3,0,0,0.0
+2026,6,SHOULDER,61-90,Appartamento Area Giardino,115,7,5,4.3478260869565215
+2026,6,SHOULDER,61-90,Appartamento Area Piscina,64,2,2,3.125
+2026,6,SHOULDER,61-90,Camera  Standard,93,3,2,2.150537634408602
+2026,6,SHOULDER,61-90,Camera Deluxe,84,5,0,0.0
+2026,6,SHOULDER,61-90,Camera Superior,83,4,1,1.2048192771084338
+2026,6,SHOULDER,61-90,Suite Familiare,2,1,0,0.0
+2026,6,SHOULDER,61-90,Suite Familiare Vista Piscina,3,0,0,0.0
+2026,6,SHOULDER,61-90,Villino Double,7,1,0,0.0
+2026,6,SHOULDER,8-14,Appartamento Area Giardino,32,2,1,3.125
+2026,6,SHOULDER,8-14,Appartamento Area Piscina,38,2,2,5.2631578947368425
+2026,6,SHOULDER,8-14,Camera  Standard,13,2,1,7.6923076923076925
+2026,6,SHOULDER,8-14,Camera Deluxe,17,2,1,5.882352941176471
+2026,6,SHOULDER,8-14,Camera Superior,9,2,0,0.0
+2026,6,SHOULDER,8-14,Suite Familiare,8,0,0,0.0
+2026,6,SHOULDER,8-14,Villino 2Ten,2,1,1,50.0
+2026,6,SHOULDER,91-180,Appartamento Area Giardino,51,4,4,7.8431372549019605
+2026,6,SHOULDER,91-180,Appartamento Area Piscina,197,7,0,0.0
+2026,6,SHOULDER,91-180,Camera  Standard,118,5,5,4.237288135593221
+2026,6,SHOULDER,91-180,Camera Deluxe,152,5,0,0.0
+2026,6,SHOULDER,91-180,Camera Superior,119,2,2,1.680672268907563
+2026,6,SHOULDER,91-180,Suite Familiare,9,0,0,0.0
+2026,6,SHOULDER,91-180,Suite Familiare Vista Piscina,6,1,0,0.0
+2026,6,SHOULDER,91-180,Villino Double,3,0,0,0.0
+2026,7,PEAK,0-7,Appartamento Area Giardino,61,1,1,1.639344262295082
+2026,7,PEAK,0-7,Appartamento Area Piscina,62,1,1,1.6129032258064515
+2026,7,PEAK,0-7,Camera  Standard,22,1,0,0.0
+2026,7,PEAK,0-7,Camera Deluxe,21,0,0,0.0
+2026,7,PEAK,0-7,Camera Superior,28,1,1,3.5714285714285716
+2026,7,PEAK,0-7,Suite Familiare Vista Piscina,7,0,0,0.0
+2026,7,PEAK,15-30,Appartamento Area Giardino,84,1,1,1.1904761904761905
+2026,7,PEAK,15-30,Appartamento Area Piscina,154,0,0,0.0
+2026,7,PEAK,15-30,Camera  Standard,33,1,1,3.0303030303030303
+2026,7,PEAK,15-30,Camera Deluxe,194,1,0,0.0
+2026,7,PEAK,15-30,Camera Superior,190,1,1,0.5263157894736842
+2026,7,PEAK,15-30,Suite Familiare,6,0,0,0.0
+2026,7,PEAK,15-30,Suite Familiare Vista Piscina,5,0,0,0.0
+2026,7,PEAK,15-30,Villino 2Ten,7,0,0,0.0
+2026,7,PEAK,15-30,Villino Double,1,0,0,0.0
+2026,7,PEAK,181+,Appartamento Area Giardino,19,3,2,10.526315789473685
+2026,7,PEAK,181+,Appartamento Area Piscina,59,2,2,3.389830508474576
+2026,7,PEAK,181+,Camera  Standard,27,0,0,0.0
+2026,7,PEAK,181+,Camera Deluxe,35,2,0,0.0
+2026,7,PEAK,181+,Camera Superior,38,1,1,2.6315789473684212
+2026,7,PEAK,181+,Suite Familiare,8,0,0,0.0
+2026,7,PEAK,181+,Suite Familiare Vista Piscina,6,0,0,0.0
+2026,7,PEAK,181+,Villino Double,1,0,0,0.0
+2026,7,PEAK,31-60,Appartamento Area Giardino,70,2,2,2.857142857142857
+2026,7,PEAK,31-60,Appartamento Area Piscina,146,1,0,0.0
+2026,7,PEAK,31-60,Camera  Standard,73,2,2,2.73972602739726
+2026,7,PEAK,31-60,Camera Deluxe,280,1,1,0.35714285714285715
+2026,7,PEAK,31-60,Camera Superior,114,1,0,0.0
+2026,7,PEAK,31-60,Suite Familiare,18,0,0,0.0
+2026,7,PEAK,31-60,Suite Familiare Vista Piscina,2,0,0,0.0
+2026,7,PEAK,31-60,Villino 2Ten,41,1,0,0.0
+2026,7,PEAK,31-60,Villino Double,2,0,0,0.0
+2026,7,PEAK,61-90,Appartamento Area Giardino,60,6,5,8.333333333333334
+2026,7,PEAK,61-90,Appartamento Area Piscina,143,4,0,0.0
+2026,7,PEAK,61-90,Camera  Standard,123,10,7,5.691056910569106
+2026,7,PEAK,61-90,Camera Deluxe,227,9,2,0.8810572687224669
+2026,7,PEAK,61-90,Camera Superior,84,3,3,3.5714285714285716
+2026,7,PEAK,61-90,Suite Familiare,18,0,0,0.0
+2026,7,PEAK,61-90,Suite Familiare Vista Piscina,19,2,1,5.2631578947368425
+2026,7,PEAK,61-90,Villino 2Ten,8,1,1,12.5
+2026,7,PEAK,61-90,Villino Double,9,0,0,0.0
+2026,7,PEAK,8-14,Appartamento Area Giardino,65,0,0,0.0
+2026,7,PEAK,8-14,Appartamento Area Piscina,88,4,4,4.545454545454546
+2026,7,PEAK,8-14,Camera  Standard,18,1,1,5.555555555555555
+2026,7,PEAK,8-14,Camera Deluxe,36,0,0,0.0
+2026,7,PEAK,8-14,Camera Superior,33,6,4,12.121212121212121
+2026,7,PEAK,8-14,Suite Familiare,3,0,0,0.0
+2026,7,PEAK,8-14,Suite Familiare Vista Piscina,9,0,0,0.0
+2026,7,PEAK,8-14,Villino 2Ten,1,0,0,0.0
+2026,7,PEAK,8-14,Villino Double,1,0,0,0.0
+2026,7,PEAK,91-180,Appartamento Area Giardino,159,14,8,5.031446540880503
+2026,7,PEAK,91-180,Appartamento Area Piscina,539,16,4,0.7421150278293135
+2026,7,PEAK,91-180,Camera  Standard,253,6,6,2.3715415019762847
+2026,7,PEAK,91-180,Camera Deluxe,430,8,2,0.46511627906976744
+2026,7,PEAK,91-180,Camera Superior,309,19,9,2.912621359223301
+2026,7,PEAK,91-180,Suite Familiare,50,1,0,0.0
+2026,7,PEAK,91-180,Suite Familiare Vista Piscina,162,3,1,0.6172839506172839
+2026,7,PEAK,91-180,Villino Double,37,2,2,5.405405405405405
+2026,8,PEAK,0-7,Appartamento Area Giardino,8,0,0,0.0
+2026,8,PEAK,0-7,Appartamento Area Piscina,16,0,0,0.0
+2026,8,PEAK,0-7,Camera  Standard,6,0,0,0.0
+2026,8,PEAK,0-7,Camera Superior,2,0,0,0.0
+2026,8,PEAK,15-30,Appartamento Area Giardino,139,3,1,0.7194244604316546
+2026,8,PEAK,15-30,Appartamento Area Piscina,216,2,2,0.9259259259259259
+2026,8,PEAK,15-30,Camera  Standard,65,3,3,4.615384615384615
+2026,8,PEAK,15-30,Camera Deluxe,140,3,0,0.0
+2026,8,PEAK,15-30,Camera Superior,37,1,0,0.0
+2026,8,PEAK,15-30,Suite Familiare,24,0,0,0.0
+2026,8,PEAK,15-30,Suite Familiare Vista Piscina,43,1,1,2.3255813953488373
+2026,8,PEAK,15-30,Villino Double,17,0,0,0.0
+2026,8,PEAK,181+,Appartamento Area Giardino,44,0,0,0.0
+2026,8,PEAK,181+,Appartamento Area Piscina,268,3,2,0.746268656716418
+2026,8,PEAK,181+,Camera  Standard,110,3,1,0.9090909090909091
+2026,8,PEAK,181+,Camera Deluxe,196,0,0,0.0
+2026,8,PEAK,181+,Camera Superior,173,1,1,0.5780346820809249
+2026,8,PEAK,181+,Suite Familiare,25,0,0,0.0
+2026,8,PEAK,181+,Suite Familiare Vista Piscina,70,0,0,0.0
+2026,8,PEAK,181+,Villino Double,5,0,0,0.0
+2026,8,PEAK,31-60,Appartamento Area Giardino,279,6,5,1.7921146953405018
+2026,8,PEAK,31-60,Appartamento Area Piscina,360,4,2,0.5555555555555556
+2026,8,PEAK,31-60,Camera  Standard,162,4,3,1.8518518518518519
+2026,8,PEAK,31-60,Camera Deluxe,623,11,3,0.48154093097913325
+2026,8,PEAK,31-60,Camera Superior,261,9,7,2.681992337164751
+2026,8,PEAK,31-60,Suite Familiare,54,1,0,0.0
+2026,8,PEAK,31-60,Suite Familiare Vista Piscina,66,1,1,1.5151515151515151
+2026,8,PEAK,31-60,Villino 2Ten,5,1,1,20.0
+2026,8,PEAK,31-60,Villino Double,46,0,0,0.0
+2026,8,PEAK,61-90,Appartamento Area Giardino,159,4,2,1.2578616352201257
+2026,8,PEAK,61-90,Appartamento Area Piscina,223,4,3,1.345291479820628
+2026,8,PEAK,61-90,Camera  Standard,102,1,0,0.0
+2026,8,PEAK,61-90,Camera Deluxe,404,4,0,0.0
+2026,8,PEAK,61-90,Camera Superior,207,1,0,0.0
+2026,8,PEAK,61-90,Suite Familiare,51,0,0,0.0
+2026,8,PEAK,61-90,Suite Familiare Vista Piscina,58,3,0,0.0
+2026,8,PEAK,61-90,Villino 2Ten,10,0,0,0.0
+2026,8,PEAK,61-90,Villino Double,28,0,0,0.0
+2026,8,PEAK,8-14,Appartamento Area Giardino,31,1,1,3.225806451612903
+2026,8,PEAK,8-14,Appartamento Area Piscina,26,1,0,0.0
+2026,8,PEAK,8-14,Camera  Standard,25,0,0,0.0
+2026,8,PEAK,8-14,Camera Deluxe,7,1,1,14.285714285714286
+2026,8,PEAK,8-14,Camera Superior,20,0,0,0.0
+2026,8,PEAK,8-14,Suite Familiare Vista Piscina,2,0,0,0.0
+2026,8,PEAK,91-180,Appartamento Area Giardino,454,3,2,0.44052863436123346
+2026,8,PEAK,91-180,Appartamento Area Piscina,459,5,2,0.4357298474945534
+2026,8,PEAK,91-180,Camera  Standard,430,10,8,1.8604651162790697
+2026,8,PEAK,91-180,Camera Deluxe,649,8,1,0.15408320493066255
+2026,8,PEAK,91-180,Camera Superior,560,10,5,0.8928571428571429
+2026,8,PEAK,91-180,Suite Familiare,95,6,0,0.0
+2026,8,PEAK,91-180,Suite Familiare Vista Piscina,221,1,0,0.0
+2026,8,PEAK,91-180,Villino 2Ten,7,0,0,0.0
+2026,8,PEAK,91-180,Villino Double,120,2,1,0.8333333333333334
+2026,9,SHOULDER,181+,Appartamento Area Giardino,2,0,0,0.0
+2026,9,SHOULDER,181+,Appartamento Area Piscina,11,0,0,0.0
+2026,9,SHOULDER,181+,Camera  Standard,12,0,0,0.0
+2026,9,SHOULDER,181+,Camera Deluxe,7,0,0,0.0
+2026,9,SHOULDER,181+,Camera Superior,10,2,2,20.0
+2026,9,SHOULDER,181+,Suite Familiare,3,0,0,0.0
+2026,9,SHOULDER,181+,Suite Familiare Vista Piscina,2,0,0,0.0
+2026,9,SHOULDER,31-60,Appartamento Area Giardino,41,1,1,2.4390243902439024
+2026,9,SHOULDER,31-60,Appartamento Area Piscina,32,1,0,0.0
+2026,9,SHOULDER,31-60,Camera  Standard,63,2,2,3.1746031746031744
+2026,9,SHOULDER,31-60,Camera Deluxe,40,1,0,0.0
+2026,9,SHOULDER,31-60,Camera Superior,55,2,2,3.6363636363636362
+2026,9,SHOULDER,31-60,Suite Familiare,5,0,0,0.0
+2026,9,SHOULDER,31-60,Suite Familiare Vista Piscina,5,1,0,0.0
+2026,9,SHOULDER,61-90,Appartamento Area Giardino,24,1,1,4.166666666666667
+2026,9,SHOULDER,61-90,Appartamento Area Piscina,23,0,0,0.0
+2026,9,SHOULDER,61-90,Camera  Standard,62,5,4,6.451612903225806
+2026,9,SHOULDER,61-90,Camera Deluxe,27,0,0,0.0
+2026,9,SHOULDER,61-90,Camera Superior,40,1,0,0.0
+2026,9,SHOULDER,61-90,Suite Familiare,5,0,0,0.0
+2026,9,SHOULDER,61-90,Suite Familiare Vista Piscina,1,0,0,0.0
+2026,9,SHOULDER,61-90,Villino Double,1,0,0,0.0
+2026,9,SHOULDER,91-180,Appartamento Area Giardino,28,0,0,0.0
+2026,9,SHOULDER,91-180,Appartamento Area Piscina,42,0,0,0.0
+2026,9,SHOULDER,91-180,Camera  Standard,69,0,0,0.0
+2026,9,SHOULDER,91-180,Camera Deluxe,25,0,0,0.0
+2026,9,SHOULDER,91-180,Camera Superior,33,0,0,0.0
+2026,9,SHOULDER,91-180,Suite Familiare,5,0,0,0.0
+2026,9,SHOULDER,91-180,Suite Familiare Vista Piscina,6,0,0,0.0
+2026,9,SHOULDER,91-180,Villino 2Ten,1,0,0,0.0
+2026,9,SHOULDER,91-180,Villino Double,2,0,0,0.0
